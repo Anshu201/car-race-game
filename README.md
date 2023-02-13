@@ -1,2 +1,2 @@
-# car-race-game
-the Car Racing game, the player has to race the car without colliding with other cars.
+# Car-Racing-Game
+This is a Car Racing Game developed using Javascript.
